@@ -7,6 +7,7 @@ Jupyter Notebookを使用したパーティクルフィルタを使用した位�
 ## 確認済み実行環境
 * Jupyter Notebook
 * Python 3.8.10
+* WSL2
 * CPU: intel core-i7 13700k
 
 ## 実行例
