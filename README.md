@@ -14,10 +14,10 @@ Jupyter Notebookを使用したパーティクルフィルタを使用した位�
 [![title](movie/sim.gif)](movie/sim.gif) [![title](movie/sim2.gif)](movie/sim2.gif)
 
 ## 参考
-上田隆一(2019).『詳解　確率ロボティクス　Pythonによる基礎アルゴリズムの実装』.講談社
-小川雄太郎(2018). 『つくりながら学ぶ！深層強化学習』.マイナビ出版
-https://www.slideshare.net/ryuichiueda/sci14
-https://inzkyk.xyz/kalman_filter/
+上田隆一(2019).『詳解　確率ロボティクス　Pythonによる基礎アルゴリズムの実装』.講談社<br>
+小川雄太郎(2018). 『つくりながら学ぶ！深層強化学習』.マイナビ出版<br>
+https://www.slideshare.net/ryuichiueda/sci14<br>
+https://inzkyk.xyz/kalman_filter/<br>
 
 
 
